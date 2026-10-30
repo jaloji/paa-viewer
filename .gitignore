@@ -1,0 +1,10 @@
+# Build output
+/build/
+/dist/
+/out/
+.vs/
+*.user
+__pycache__/
+
+# Local test files: third-party samples (GPL armaio test data), not redistributed.
+/testdata/
